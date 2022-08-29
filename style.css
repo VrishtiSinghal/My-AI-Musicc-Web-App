@@ -1,0 +1,21 @@
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 25px;
+}
+.heading_span{
+    color: black;
+    font-size: 15px;
+}
+button{
+    width: 130px;
+    font-size: 30px;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 25px;
+    margin-top: 100px;
+}
